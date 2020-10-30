@@ -1,0 +1,20 @@
+Carroll#programming\lecture#architecture of computing systems\practice_1#operating systems\practice_1
+Hudson#mathematical statistics\practice_1#calculation methods\lecture
+Duncan#object-oriented programming\lecture#data analysis\practice_2
+Armstrong#programming\practice_1#architecture of computing systems\lecture
+Berry#architecture of computing systems\practice_2#mathematical statistics\practice_1#object-oriented programming\practice_1
+Andrews#architecture of computing systems\practice_2#discrete mathematics\lecture#mathematical statistics\practice_2
+Johnston#theory of algorithms and mathematical logic\lecture#calculation methods\practice_1
+Ray#programming#architecture of computing systems\practice_1#operating systems\practice_2#mathematical statistics\practice_2#object-oriented programming\practice_2
+Lane#architecture of computing systems\practice_2#data analysis\lecture
+Riley#programming\practice_2#discrete mathematics\practice_2
+Carpenter#algorithms and data structures\practice_2#mathematical statistics\practice_1#databases and information systems\practice_2
+Perkins#programming\practice_2#game theory\practice_1
+Aguilar#mathematical statistics\lecture#data analysis\practice_1
+Silva#discrete mathematics\practice_1#algorithms and data structures\practice_1#computer networks\practice_2#databases and information systems\lecture
+Richards#object-oriented programming\practice_2#game theory\practice_2
+Willis#algorithms and data structures\lecture#computer networks\practice_1
+Matthews#algorithms and data structures\practice_2#calculation methods\practice_2
+Chapman#programming\practice_1#computer networks\lecture#databases and information systems\practice_1
+Lawrence#theory of algorithms and mathematical logic\practice_1#algorithms and data structures\practice_1#game theory\lecture
+Garza#theory of algorithms and mathematical logic\practice_2#operating systems\lecture

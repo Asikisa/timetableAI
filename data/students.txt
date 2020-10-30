@@ -1,0 +1,200 @@
+Smith#software engineering#operating systems#algorithms and data structures#discrete mathematics#2
+Johnson#software engineering#mathematical statistics#computer systems software#computer networks#1
+Williams#applied math#architecture of computing systems#discrete mathematics#mathematical statistics#2
+Brown#software engineering#mathematical statistics#data analysis#databases and information systems#2
+Jones#computer science#calculation methods#computer systems software#game theory#2
+Miller#software engineering#programming#databases and information systems#discrete mathematics#1
+Davis#applied math#calculation methods#operating systems#game theory#2
+Garcia#computer science#databases and information systems#algorithms and data structures#theory of algorithms and mathematical logic#2
+Rodriguez#computer science#calculation methods#mathematical statistics#programming#1
+Wilson#applied math#discrete mathematics#architecture of computing systems#game theory#1
+Martinez#computer science#discrete mathematics#mathematical statistics#object-oriented programming#1
+Anderson#software engineering#algorithms and data structures#operating systems#modern software design tools#1
+Taylor#computer science#mathematical statistics#databases and information systems#computer systems software#2
+Thomas#software engineering#object-oriented programming#game theory#data analysis#1
+Hernandez#software engineering#computer networks#computer systems software#theory of algorithms and mathematical logic#2
+Moore#applied math#data analysis#computer networks#computer systems software#2
+Martin#computer science#programming#databases and information systems#theory of algorithms and mathematical logic#1
+Jackson#software engineering#databases and information systems#object-oriented programming#modern software design tools#1
+Thompson#applied math#databases and information systems#discrete mathematics#data analysis#2
+White#applied math#mathematical statistics#theory of algorithms and mathematical logic#modern software design tools#2
+Lopez#computer science#object-oriented programming#algorithms and data structures#databases and information systems#1
+Lee#applied math#databases and information systems#computer networks#modern software design tools#1
+Gonzalez#applied math#object-oriented programming#programming#computer networks#2
+Harris#applied math#databases and information systems#modern software design tools#game theory#1
+Clark#computer science#discrete mathematics#algorithms and data structures#computer networks#1
+Lewis#applied math#object-oriented programming#algorithms and data structures#computer networks#2
+Robinson#computer science#algorithms and data structures#modern software design tools#game theory#1
+Walker#computer science#object-oriented programming#modern software design tools#programming#2
+Perez#applied math#databases and information systems#algorithms and data structures#programming#2
+Hall#applied math#modern software design tools#object-oriented programming#architecture of computing systems#1
+Young#applied math#operating systems#computer systems software#algorithms and data structures#2
+Allen#computer science#data analysis#modern software design tools#computer systems software#2
+Sanchez#computer science#programming#calculation methods#discrete mathematics#1
+Wright#software engineering#mathematical statistics#computer systems software#data analysis#2
+King#software engineering#operating systems#databases and information systems#computer networks#1
+Scott#applied math#game theory#data analysis#algorithms and data structures#1
+Green#software engineering#programming#algorithms and data structures#mathematical statistics#1
+Baker#software engineering#mathematical statistics#theory of algorithms and mathematical logic#operating systems#2
+Adams#software engineering#operating systems#modern software design tools#calculation methods#2
+Nelson#software engineering#modern software design tools#theory of algorithms and mathematical logic#data analysis#1
+Hill#software engineering#operating systems#computer networks#computer systems software#2
+Ramirez#computer science#game theory#operating systems#computer networks#1
+Campbell#applied math#calculation methods#programming#databases and information systems#2
+Mitchell#software engineering#programming#computer systems software#game theory#2
+Roberts#software engineering#data analysis#architecture of computing systems#discrete mathematics#1
+Carter#applied math#modern software design tools#architecture of computing systems#object-oriented programming#2
+Phillips#software engineering#data analysis#operating systems#object-oriented programming#1
+Evans#applied math#theory of algorithms and mathematical logic#object-oriented programming#architecture of computing systems#2
+Turner#software engineering#object-oriented programming#architecture of computing systems#game theory#2
+Torres#software engineering#operating systems#calculation methods#theory of algorithms and mathematical logic#2
+Parker#software engineering#discrete mathematics#mathematical statistics#theory of algorithms and mathematical logic#1
+Collins#software engineering#discrete mathematics#object-oriented programming#architecture of computing systems#2
+Edwards#applied math#databases and information systems#computer networks#modern software design tools#2
+Stewart#computer science#programming#theory of algorithms and mathematical logic#modern software design tools#1
+Flores#applied math#modern software design tools#game theory#operating systems#1
+Morris#software engineering#data analysis#computer networks#computer systems software#1
+Nguyen#applied math#operating systems#algorithms and data structures#computer systems software#2
+Murphy#computer science#data analysis#discrete mathematics#architecture of computing systems#1
+Rivera#software engineering#mathematical statistics#data analysis#programming#1
+Cook#applied math#operating systems#discrete mathematics#game theory#2
+Rogers#applied math#game theory#databases and information systems#computer systems software#1
+Morgan#software engineering#mathematical statistics#programming#architecture of computing systems#2
+Peterson#software engineering#computer networks#discrete mathematics#object-oriented programming#2
+Cooper#applied math#object-oriented programming#modern software design tools#data analysis#1
+Reed#computer science#calculation methods#programming#theory of algorithms and mathematical logic#1
+Bailey#software engineering#game theory#modern software design tools#architecture of computing systems#2
+Bell#applied math#algorithms and data structures#modern software design tools#game theory#1
+Gomez#software engineering#architecture of computing systems#programming#data analysis#2
+Kelly#computer science#databases and information systems#modern software design tools#game theory#1
+Howard#applied math#discrete mathematics#game theory#programming#2
+Ward#computer science#object-oriented programming#operating systems#discrete mathematics#1
+Cox#applied math#programming#operating systems#computer networks#2
+Diaz#computer science#computer systems software#discrete mathematics#databases and information systems#1
+Richardson#applied math#mathematical statistics#programming#modern software design tools#2
+Wood#software engineering#architecture of computing systems#algorithms and data structures#operating systems#2
+Watson#computer science#computer systems software#object-oriented programming#calculation methods#1
+Brooks#computer science#object-oriented programming#game theory#calculation methods#2
+Bennett#software engineering#game theory#computer systems software#databases and information systems#1
+Gray#software engineering#mathematical statistics#computer networks#calculation methods#2
+James#software engineering#algorithms and data structures#architecture of computing systems#game theory#2
+Reyes#computer science#architecture of computing systems#computer networks#data analysis#1
+Cruz#applied math#calculation methods#game theory#theory of algorithms and mathematical logic#2
+Hughes#computer science#algorithms and data structures#data analysis#object-oriented programming#1
+Price#computer science#algorithms and data structures#computer systems software#data analysis#2
+Myers#software engineering#programming#game theory#data analysis#2
+Long#computer science#architecture of computing systems#programming#mathematical statistics#2
+Foster#software engineering#operating systems#object-oriented programming#computer systems software#1
+Sanders#software engineering#algorithms and data structures#databases and information systems#mathematical statistics#2
+Ross#software engineering#theory of algorithms and mathematical logic#discrete mathematics#architecture of computing systems#1
+Morales#applied math#object-oriented programming#databases and information systems#computer networks#2
+Powell#software engineering#modern software design tools#theory of algorithms and mathematical logic#databases and information systems#1
+Sullivan#applied math#modern software design tools#mathematical statistics#data analysis#2
+Russell#computer science#architecture of computing systems#computer systems software#discrete mathematics#2
+Ortiz#computer science#mathematical statistics#architecture of computing systems#algorithms and data structures#1
+Jenkins#applied math#programming#modern software design tools#data analysis#1
+Gutierrez#software engineering#databases and information systems#algorithms and data structures#data analysis#1
+Perry#applied math#data analysis#calculation methods#algorithms and data structures#1
+Butler#computer science#computer networks#data analysis#algorithms and data structures#2
+Barnes#software engineering#algorithms and data structures#discrete mathematics#computer networks#2
+Fisher#applied math#data analysis#modern software design tools#object-oriented programming#2
+Henderson#computer science#computer networks#data analysis#mathematical statistics#1
+Coleman#computer science#databases and information systems#modern software design tools#operating systems#2
+Simmons#computer science#game theory#modern software design tools#object-oriented programming#1
+Patterson#software engineering#game theory#mathematical statistics#programming#2
+Jordan#applied math#mathematical statistics#data analysis#modern software design tools#1
+Reynolds#computer science#databases and information systems#calculation methods#operating systems#2
+Hamilton#software engineering#computer networks#databases and information systems#mathematical statistics#2
+Graham#computer science#databases and information systems#modern software design tools#mathematical statistics#1
+Kim#software engineering#modern software design tools#architecture of computing systems#mathematical statistics#2
+Gonzales#software engineering#data analysis#mathematical statistics#operating systems#1
+Alexander#software engineering#operating systems#architecture of computing systems#programming#2
+Ramos#applied math#architecture of computing systems#object-oriented programming#databases and information systems#1
+Wallace#software engineering#data analysis#calculation methods#computer systems software#2
+Griffin#software engineering#computer networks#algorithms and data structures#theory of algorithms and mathematical logic#1
+West#computer science#data analysis#programming#theory of algorithms and mathematical logic#2
+Cole#software engineering#operating systems#databases and information systems#modern software design tools#1
+Hayes#applied math#game theory#computer systems software#architecture of computing systems#2
+Chavez#applied math#object-oriented programming#game theory#computer systems software#2
+Gibson#computer science#programming#computer networks#data analysis#1
+Bryant#applied math#game theory#theory of algorithms and mathematical logic#mathematical statistics#2
+Ellis#computer science#object-oriented programming#modern software design tools#computer systems software#1
+Stevens#computer science#operating systems#computer systems software#theory of algorithms and mathematical logic#2
+Murray#applied math#operating systems#data analysis#algorithms and data structures#2
+Ford#applied math#architecture of computing systems#data analysis#game theory#2
+Marshall#applied math#discrete mathematics#calculation methods#game theory#1
+Owens#applied math#game theory#object-oriented programming#modern software design tools#1
+McDonald#computer science#architecture of computing systems#object-oriented programming#data analysis#2
+Harrison#software engineering#data analysis#operating systems#game theory#1
+Ruiz#applied math#operating systems#calculation methods#databases and information systems#2
+Kennedy#applied math#mathematical statistics#computer networks#architecture of computing systems#1
+Wells#software engineering#theory of algorithms and mathematical logic#mathematical statistics#architecture of computing systems#2
+Alvarez#software engineering#computer networks#data analysis#calculation methods#2
+Woods#software engineering#operating systems#computer systems software#algorithms and data structures#2
+Mendoza#computer science#discrete mathematics#mathematical statistics#modern software design tools#1
+Castillo#software engineering#data analysis#algorithms and data structures#mathematical statistics#2
+Olson#computer science#databases and information systems#modern software design tools#calculation methods#1
+Webb#computer science#discrete mathematics#theory of algorithms and mathematical logic#databases and information systems#2
+Washington#applied math#programming#discrete mathematics#calculation methods#2
+Tucker#computer science#algorithms and data structures#theory of algorithms and mathematical logic#computer systems software#1
+Freeman#software engineering#game theory#databases and information systems#programming#1
+Burns#computer science#databases and information systems#computer systems software#modern software design tools#1
+Henry#applied math#databases and information systems#calculation methods#mathematical statistics#2
+Vasquez#software engineering#object-oriented programming#mathematical statistics#theory of algorithms and mathematical logic#2
+Snyder#software engineering#data analysis#algorithms and data structures#modern software design tools#1
+Simpson#computer science#modern software design tools#operating systems#object-oriented programming#2
+Crawford#applied math#modern software design tools#object-oriented programming#computer systems software#1
+Jimenez#computer science#modern software design tools#databases and information systems#data analysis#2
+Porter#computer science#architecture of computing systems#mathematical statistics#discrete mathematics#1
+Mason#computer science#discrete mathematics#programming#algorithms and data structures#2
+Shaw#computer science#discrete mathematics#operating systems#modern software design tools#2
+Gordon#applied math#data analysis#computer networks#computer systems software#1
+Wagner#software engineering#game theory#architecture of computing systems#theory of algorithms and mathematical logic#2
+Hunter#computer science#calculation methods#operating systems#programming#1
+Romero#applied math#discrete mathematics#game theory#calculation methods#1
+Hicks#computer science#modern software design tools#object-oriented programming#programming#2
+Dixon#applied math#programming#computer systems software#databases and information systems#1
+Hunt#software engineering#object-oriented programming#algorithms and data structures#data analysis#2
+Palmer#software engineering#mathematical statistics#databases and information systems#operating systems#1
+Robertson#computer science#computer systems software#programming#discrete mathematics#2
+Black#computer science#data analysis#computer networks#algorithms and data structures#2
+Holmes#software engineering#databases and information systems#discrete mathematics#operating systems#1
+Stone#computer science#algorithms and data structures#theory of algorithms and mathematical logic#operating systems#1
+Meyer#applied math#discrete mathematics#computer systems software#programming#2
+Boyd#computer science#game theory#object-oriented programming#discrete mathematics#2
+Mills#computer science#operating systems#theory of algorithms and mathematical logic#data analysis#1
+Warren#applied math#programming#operating systems#game theory#2
+Fox#computer science#mathematical statistics#computer networks#data analysis#1
+Rose#computer science#operating systems#architecture of computing systems#computer systems software#2
+Rice#computer science#game theory#discrete mathematics#object-oriented programming#1
+Moreno#computer science#computer networks#theory of algorithms and mathematical logic#object-oriented programming#2
+Schmidt#computer science#discrete mathematics#theory of algorithms and mathematical logic#architecture of computing systems#1
+Patel#software engineering#modern software design tools#architecture of computing systems#data analysis#1
+Ferguson#computer science#data analysis#architecture of computing systems#computer networks#1
+Nichols#computer science#object-oriented programming#discrete mathematics#programming#2
+Herrera#software engineering#game theory#operating systems#mathematical statistics#1
+Medina#applied math#operating systems#game theory#calculation methods#2
+Ryan#applied math#programming#operating systems#modern software design tools#2
+Fernandez#software engineering#architecture of computing systems#databases and information systems#computer networks#1
+Weaver#applied math#mathematical statistics#calculation methods#algorithms and data structures#1
+Daniels#applied math#modern software design tools#computer networks#theory of algorithms and mathematical logic#2
+Stephens#applied math#computer systems software#mathematical statistics#calculation methods#1
+Gardner#applied math#computer systems software#modern software design tools#databases and information systems#2
+Payne#software engineering#modern software design tools#game theory#programming#1
+Kelley#applied math#calculation methods#computer networks#theory of algorithms and mathematical logic#2
+Dunn#computer science#calculation methods#game theory#discrete mathematics#1
+Pierce#software engineering#modern software design tools#game theory#data analysis#2
+Arnold#computer science#data analysis#object-oriented programming#computer networks#2
+Tran#computer science#calculation methods#data analysis#computer networks#1
+Spencer#software engineering#discrete mathematics#game theory#algorithms and data structures#2
+Peters#software engineering#computer systems software#game theory#operating systems#1
+Hawkins#computer science#algorithms and data structures#discrete mathematics#game theory#2
+Grant#computer science#mathematical statistics#modern software design tools#calculation methods#1
+Hansen#software engineering#modern software design tools#calculation methods#computer systems software#2
+Castro#computer science#computer systems software#architecture of computing systems#object-oriented programming#2
+Hoffman#computer science#discrete mathematics#programming#calculation methods#1
+Hart#software engineering#operating systems#databases and information systems#modern software design tools#2
+Elliott#applied math#data analysis#computer systems software#mathematical statistics#1
+Cunningham#software engineering#theory of algorithms and mathematical logic#discrete mathematics#databases and information systems#2
+Knight#computer science#discrete mathematics#game theory#mathematical statistics#2
+Bradley#software engineering#operating systems#algorithms and data structures#mathematical statistics#1
