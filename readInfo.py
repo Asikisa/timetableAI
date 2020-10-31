@@ -11,8 +11,8 @@ with open('data/students.txt') as st_file:
         line = st_line.strip().split('#')
         name = line[0]
         speciality = line[1]
-        group = line[len(line) - 1]
-        subjects = line[2:len(line) - 1]
+        group = line[-1]
+        subjects = line[2:-1]
         students.append(Student(name, speciality, subjects, group))
 
 specialities = []
@@ -25,6 +25,7 @@ with open('data/specialties.txt') as sp_file:
                 number += 1
         specialities.append(Speciality(name, number))
 
+
 audiences = []
 a_num = 1
 with open('data/audiences.txt') as a_file:
@@ -32,21 +33,6 @@ with open('data/audiences.txt') as a_file:
         audiences.append(Audience(a_num, a_line.strip()))
         a_num += 1
 
-subjects = []
-with open('data/subjects.txt') as su_file:
-    for su_line in su_file:
-        name = su_line.strip()
-        enrolled_students_1 = []
-        enrolled_students_2 = []
-        for s in students:
-            for s_sub in s.subjects:
-                if s_sub == name:
-                    if int(s.group) == 1:
-                        enrolled_students_1.append(s)
-                    else:
-                        enrolled_students_2.append(s)
-        subject = Subject(name, enrolled_students_1, enrolled_students_2)
-        subjects.append(subject)
 
 teachers = []
 with open('data/teachers.txt') as t_file:
@@ -55,6 +41,40 @@ with open('data/teachers.txt') as t_file:
         name = t_line[0]
         subject = t_line[1:]
         teachers.append(Teacher(name, subjects))
+
+
+subjects = []
+with open('data/subjects.txt') as su_file:
+    for su_line in su_file:
+        s_name = su_line.strip()
+        enrolled_students = []
+        s_type = ""
+        s_teacher = None
+        # for s in students:
+        #     for s_sub in s.subjects:
+        #         if s_sub == name:
+        #             enrolled_students.append(s)
+        # subject = Subject(name, enrolled_students)
+        # subjects.append(subject)
+        for t in teachers:
+            for subj in t.subjects:
+                subject, subject_type = subj.split("\\")
+                if subject == s_name:
+                    s_teacher = t
+                    s_type = subject_type
+                    if subject_type == "lecture":
+                        for student in students:
+                            if s_name in student.subject_names:
+                                enrolled_students.append(student)
+                    else:
+                        s_group = subject_type[-1]
+                        for student in students:
+                            if s_name in student.subject_names and student.group == s_group:
+                                enrolled_students.append(student)
+        if s_type == "" or s_teacher is None:
+            raise Exception("no teachers found for this subject")
+        subjects.append(Subject(s_name, s_type, enrolled_students, s_teacher))
+
 
 # print(chromosome.evolution(teachers, audiences, subjects, specialities))
 # best_appearance, num = chromosome.evolution(teachers, audiences, subjects, specialities)

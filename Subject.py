@@ -1,7 +1,7 @@
 class Subject:
-    def __init__(self, name, type, enrolled_students, teacher):
+    def __init__(self, name, subj_type, enrolled_students, teacher):
         self.name = name
-        self.type = type
+        self.subj_type = subj_type
         self.teacher = teacher
         # self.enrolled_students_first_group = enrolled_students_first_group
         self.enrolled_students = enrolled_students
