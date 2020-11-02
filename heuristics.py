@@ -195,4 +195,4 @@ def make_timetable():
         subject = mrv_heuristic()
         lesson = append_lesson(subject, empty_lesson)
         constraint_heuristic(lesson)
-        
+
