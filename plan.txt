@@ -1,0 +1,11 @@
+1-3 heuristics algorithm and functions:
+    1. fill restriction set       # build_restrictions_table()
+    2. build domens for subjects  # build_domens()
+    3. fill week set              # built in week array init
+    3. choose first element       # degree_heuristic()
+    4. choose value for element   # lcv_heuristic()
+    5. add new lesson to a week   # append_lesson
+    6. rebuild restriction set    # constraint_heuristic()
+    7. rebuind domens set         # constraint_heuristic()
+    8. choose next element        # mrv_heuristic()
+    9. repeat 4, 5, 6, 7          #   main func

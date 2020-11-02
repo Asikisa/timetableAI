@@ -10,10 +10,15 @@ class Subject:
         return len(self.enrolled_students)
 
     def __repr__(self):
-        return "subject: '" + self.name + "'"
+        return "subject: '" + self.name + ", " + self.subj_type + ", teacher: " + self.teacher.name + "'"
 
     def __eq__(self, other):
-        return self.name == other.name
+        if isinstance(other, Subject):
+            return self.__key() == other.__key()
+        return NotImplemented
+
+    def __key(self):
+        return self.name, self.subj_type
 
     def __hash__(self):
-        return hash(self.name)
+        return hash(self.__key())

@@ -39,8 +39,9 @@ with open('data/teachers.txt') as t_file:
     for t_line in t_file:
         t_line = t_line.strip().split('#')
         name = t_line[0]
-        subject = t_line[1:]
-        teachers.append(Teacher(name, subjects))
+        subjs = t_line[1:]
+        teachers.append(Teacher(name, subjs))
+        print(name, subjs[0])
 
 
 subjects = []
@@ -58,7 +59,11 @@ with open('data/subjects.txt') as su_file:
         # subjects.append(subject)
         for t in teachers:
             for subj in t.subjects:
-                subject, subject_type = subj.split("\\")
+                try:
+                    subject, subject_type = subj.split("\\")
+                except ValueError:
+                    subject = subj
+                    subject_type = "lecture"
                 if subject == s_name:
                     s_teacher = t
                     s_type = subject_type
