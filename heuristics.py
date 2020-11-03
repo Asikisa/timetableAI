@@ -1,4 +1,5 @@
 import random
+import queue
 import readInfo as rf
 from Lesson import Lesson, EmptyLesson
 
@@ -83,7 +84,7 @@ subjects_domens = dict.fromkeys(rf.subjects, [])
 # each subject contains refs to all subjects that cannot be placed at the same time
 # {subject1: [subject4, subject5], subject2: [subject3], subject3: [subject2, subject5]...}
 subj_restrictions = dict.fromkeys(rf.subjects, [])
-week = [EmptyLesson(day, lesson) for day in days_of_week for lesson in range(6)]
+week = [EmptyLesson(day, lesson) for day in days_of_week for lesson in range(1, 7)]
 timetable = []
 
 
@@ -135,10 +136,15 @@ def lcv_heuristic():
         a[empty_l] = counter
     # lessons = a.items()
     min_el = None
+    min_els = []
     for i in a:
         if min_el is None or a[i] < a[min_el]:
             min_el = i
-    return min_el
+            min_els = [i]
+        elif a[i] == a[min_el]:
+            min_els.append(i)
+    x = random.choice(range(0, len(min_els)))
+    return min_els[x]
 #####
 
 
@@ -150,7 +156,7 @@ def degree_heuristic():
 
 
 # rebuild restrictions set and domens set
-def constraint_heuristic(lesson):
+def forward_checking(lesson):
     subj = lesson.subject
     les_copy = EmptyLesson(lesson.day, lesson.num_of_lesson)
     restrictions = subj_restrictions.pop(subj)
@@ -164,7 +170,12 @@ def constraint_heuristic(lesson):
 
 
 def append_lesson(subject,  empty_lesson: EmptyLesson):
-    lesson = Lesson(empty_lesson.day, empty_lesson.num_of_lesson, subject, 0)
+    audiences = []
+    for audience in rf.audiences:
+        if audience.capacity >= len(subject.enrolled_students):
+            audiences.append(audience)
+    i = random.choice(range(len(audiences)))
+    lesson = Lesson(empty_lesson.day, empty_lesson.num_of_lesson, subject, audiences[i].number)
     timetable.append(lesson)
     return lesson
 ########
@@ -190,9 +201,19 @@ def make_timetable():
     subject = degree_heuristic()
     empty_lesson = lcv_heuristic()
     lesson = append_lesson(subject, empty_lesson)
-    constraint_heuristic(lesson)
+    forward_checking(lesson)
     while len(subjects_domens)> 0:
         subject = mrv_heuristic()
+        empty_lesson = lcv_heuristic()
         lesson = append_lesson(subject, empty_lesson)
-        constraint_heuristic(lesson)
+        forward_checking(lesson)
+###############
+
+
+# def forward_checking():
+#     timetable_queue = queue.LifoQueue()
+#     build_restrictions_table()
+#     build_domens()
+#     while(len(subjects_domens) > 0):
+#         pass
 

@@ -49,14 +49,6 @@ with open('data/subjects.txt') as su_file:
     for su_line in su_file:
         s_name = su_line.strip()
         enrolled_students = []
-        s_type = ""
-        s_teacher = None
-        # for s in students:
-        #     for s_sub in s.subjects:
-        #         if s_sub == name:
-        #             enrolled_students.append(s)
-        # subject = Subject(name, enrolled_students)
-        # subjects.append(subject)
         for t in teachers:
             for subj in t.subjects:
                 try:
@@ -76,11 +68,4 @@ with open('data/subjects.txt') as su_file:
                         for student in students:
                             if s_name in student.subject_names and student.group == s_group:
                                 enrolled_students.append(student)
-        if s_type == "" or s_teacher is None:
-            raise Exception("no teachers found for this subject")
-        subjects.append(Subject(s_name, s_type, enrolled_students, s_teacher))
-
-
-# print(chromosome.evolution(teachers, audiences, subjects, specialities))
-# best_appearance, num = chromosome.evolution(teachers, audiences, subjects, specialities)
-# print(f"Number of generations: {num}, best: {best_appearance.appearance}")
+                    subjects.append(Subject(s_name, s_type, enrolled_students, s_teacher))
